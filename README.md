@@ -10,3 +10,5 @@ Carrera: Sistemas informáticos
 Se realizó la programación con javascript para crear un contador que muestre el recuento total, con botones para incrementar, decrementar y reiniciar el conteo.
 
 Implementación de javascript
+
+![](https://github.com/faviogit/DW1_PRACTICA2/blob/bc73b7faf29623865f33dcbe3a1e21ff726a4873/Captura.PNG)
